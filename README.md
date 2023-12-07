@@ -3,3 +3,9 @@
 - Fork, then, clone this repo
 - Read the instructions given in the course's Google Classroom and start coding
 - Once you are done, push your final code to your Github repo and modify this README to report on the work you have done
+## Changes made
+
+- Converted the program into OO style
+- Implemented new Class called ArtSimulator for running the program
+- Implemented method for class ArtSimulator
+- Implemented Art1 to Art4 
